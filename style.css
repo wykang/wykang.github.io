@@ -1,0 +1,37 @@
+.header {
+	width: 900px; 
+	height: 225px; 
+	position: relative; 
+	color: #090909; 
+	font-size: 13pt; 
+	text-align: left; 
+	line-height: 50px; 
+	font-family: Verdana; 
+}
+
+.news{
+	width: 880px; 
+	position:relation; 
+	color: #090909; 
+	font-size: 13pt; 
+	text-align: left; 
+	line-height: 25px; 
+	padding-left: 20px
+}
+
+.container {
+  max-width: 900px;
+  padding-left: 15px;
+  padding-right: 15px;
+  margin-top: 100px;
+}
+
+.footer{
+	margin-top: 20px;
+}
+
+a:link {color: #088A85; text-decoration:none;}
+a:hover {color: #088A85; text-decoration:underline;}
+a:active {color: #088A85;}
+a:visited {color: #088A85;}
+hr: {color: red;}
